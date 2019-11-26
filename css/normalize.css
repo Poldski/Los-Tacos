@@ -1,0 +1,62 @@
+html,body{
+    
+    margin: 0;padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+.tacos {
+    width: 100%;
+}
+.titre_gauche{
+    text-align: center;
+    color: #e72b3f;
+}
+.titre_droite{
+    text-align: center;
+    color: #e72b3f;
+    
+}
+.paragraphe{
+    text-align: center;
+}
+
+.menu{
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+}
+
+.logo{
+    display: block;
+    position: relative;
+    margin: 0px 10px 10px 10px;
+    width: 100px;  
+}
+
+.m-left {   
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.link { 
+    text-decoration: none;
+    color: #cfcfcf;
+    padding: 0;
+    margin: 0;
+    font-weight: 400;
+    transition: all 0.3s ease-in-out;
+}
+
+.link:hover {
+    color: black;
+}
+
+.link a {
+    color: black;
+}
+
+.background-img{
+    width: 100%;
+}
